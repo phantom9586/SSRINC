@@ -5,7 +5,7 @@
     xmlns:w2="http://www.inswave.com/websquare" xmlns:xf="http://www.w3.org/2002/xforms">
     <head>
 	<script type="javascript">
-		location.href="http://ssrinc.co.kr"
+		alert(1);
 	</script>
     	<w2:type>DEFAULT</w2:type>
         <w2:buildDate/>
