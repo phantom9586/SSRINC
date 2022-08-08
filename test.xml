@@ -5,7 +5,7 @@
     xmlns:w2="http://www.inswave.com/websquare" xmlns:xf="http://www.w3.org/2002/xforms">
     <head>
 	<script type="javascript">
-		alert(1);
+		alert('XSS');
 	</script>
     	<w2:type>DEFAULT</w2:type>
         <w2:buildDate/>
